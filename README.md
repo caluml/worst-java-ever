@@ -27,6 +27,7 @@ Here's your chance to use that knowledge for evil and write your worst Java ever
 * Add misleading comments
 * Use Exceptions to move data around/as part of the execution flow
 * Go all "enterprise" on it
+* Splash the lambdas and functional programming everywhere
 
 Basically, make it look as horrible as possible.<br>
 Do everything you shouldn't.<br>
