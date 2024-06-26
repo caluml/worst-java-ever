@@ -7,10 +7,10 @@ Here's your chance to use that knowledge for evil and write your worst Java ever
 
 ## Instructions
 
-1. Fork this repo, and create a branch for yourself.
+1. Fork [this repo](https://github.com/caluml/worst-java-ever), and create a branch for yourself.
 2. Pick a class, and complete the skeleton method so that the tests still pass, but try and make the implementation as
    horrific to understand at as possible.
-3. Create a PR for visibility so we can all see your submission
+3. Create a PR for visibility so we can all see [your submission](https://github.com/caluml/worst-java-ever/pulls)
 
 ## Some ideas to get you started
 
@@ -28,6 +28,7 @@ Here's your chance to use that knowledge for evil and write your worst Java ever
 * Use Exceptions to move data around/as part of the execution flow
 * Go all "enterprise" on it
 * Splash the lambdas and functional programming everywhere
+* Use reflection to bend the rules
 
 Basically, make it look as horrible as possible.<br>
 Do everything you shouldn't.<br>
